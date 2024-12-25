@@ -1,0 +1,92 @@
+body , nav
+{
+    background-color: #1E202B;
+
+}
+nav .pt
+{
+    background-color: white;
+}
+nav
+{
+    height: 10%;
+    margin-top: 5%;
+}
+.s1b
+{
+    background-image: url("../imgs/banner.png");
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 1%;
+  
+}
+.bg
+{
+    background-color: #323544;
+}
+.bg1
+{
+    background-color: #262936;
+}
+
+.logo
+{
+    width: 150px;
+}
+.spaceDiv
+{
+    width: 30% ;
+    height: 400px;
+    background-color: #323544;
+}
+.introdiv
+{
+    border-bottom:1px solid #323544 ;
+    height: 40px;
+}
+.introdiv2
+{
+    border-bottom:1px solid gray ;
+    height: 40px;
+}
+
+.spaceDiv2
+{
+    width: 30% ;
+    height: 400px;
+    background-color: #262936;
+}
+.spaceDiv3
+{
+    width: 30% ;
+    height: 400px;
+   background-color: #323544;
+}
+.all 
+{
+    height: 70vh;
+    margin-bottom: 150px;
+}
+.fss
+{
+ font-size: 70px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+  }
+nav li:hover 
+{
+    border: 1px solid blue;
+    background-color: transparent;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    color: blue;
+    width: 120px;
+}
